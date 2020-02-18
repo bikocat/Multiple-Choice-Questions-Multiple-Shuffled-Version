@@ -1,0 +1,36 @@
+\question[10] Villa De Sanctis dove sta?
+\begin{choices}
+	\choice Pigneto
+	\choice Centocelle
+	\choice Torpignattara
+	\choice Casilino 23
+\end{choices}
+\question[10] Which of these famous physicists published a paper on Brownian Motion?
+\begin{choices}
+	\choice Stephen Hawking 
+	\choice This makes no sense
+	\choice Albert Einstein
+	\choice Emmy Noether
+\end{choices}
+\question[10] Gianluca è grasso?
+\begin{choices}
+	\choice Abbastanza
+	\choice No
+	\choice Si
+	\choice Non troppo
+\end{choices}
+\question[10] Alice dove lavora?
+\begin{choices}
+	\choice Accenture
+	\choice Levi Civita
+	\choice 180 grammi
+	\choice Università
+\end{choices}
+
+\question[10] L'integrale di $\psi^{2}$?
+\begin{choices}
+	\choice $\psi^{2}$
+	\choice $\psi^{2}/2$
+	\choice $\psi$
+	\choice $\frac{\psi^{3}}{3}$
+\end{choices}
